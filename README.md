@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0595-big-countries) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
