@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1672-richest-customer-wealth](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Binary Indexed Tree
