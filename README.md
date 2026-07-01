@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
