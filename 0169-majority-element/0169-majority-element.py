@@ -1,7 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         n=len(nums)
-        dici={}
+        '''dici={}
         for i in nums:
             if i in dici:
                 dici[i]+=1
@@ -14,7 +14,23 @@ class Solution:
             if val>temp:
                 ans=i
                 break 
-        return ans
+        return ans'''
+        c=0
+        el=0
+        for i in range(n):
+            if c==0:
+                c=1
+                el=nums[i]
+            elif el==nums[i]:
+                c+=1
+            else:
+                c-=1
+            c1=0
+            if nums[i]==el:
+                c1+=1
+            if c1>n//2:
+                return el
+        return el
 
 
 
