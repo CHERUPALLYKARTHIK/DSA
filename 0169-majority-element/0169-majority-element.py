@@ -1,6 +1,5 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n=len(nums)
         '''dici={}
         for i in nums:
             if i in dici:
