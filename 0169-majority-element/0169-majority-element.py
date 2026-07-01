@@ -25,12 +25,10 @@ class Solution:
                 c+=1
             else:
                 c-=1
-            c1=0
-            if nums[i]==el:
-                c1+=1
-            if c1>n//2:
-                return el
-        return el
+        cnt1 = nums.count(el)
+        if cnt1 > (n // 2):
+            return el
+        return -1
 
 
 
