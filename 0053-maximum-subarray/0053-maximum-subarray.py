@@ -7,7 +7,7 @@ class Solution:
             for j in range(i,n):
                 cs+=nums[j]
                 s.append(cs)
-        return max(s)
+        return max(s)'''
         sum=0
         maxi=float(-inf)
         for i in range(n):
@@ -16,12 +16,4 @@ class Solution:
                 maxi=sum
             if sum<0:
                 sum=0
-        return maxi  '''
-        answer=float("-inf")
-        current=0
-        for i in nums:
-            current+=i
-            answer=max(answer,current)
-            if current<0:
-                current=0
-        return answer     
+        return maxi     
