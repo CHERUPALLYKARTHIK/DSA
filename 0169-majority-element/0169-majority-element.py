@@ -15,7 +15,7 @@ class Solution:
                 ans=i
                 break 
         return ans'''
-        c=0
+        '''c=0
         el=0
         for i in range(n):
             if c==0:
@@ -28,7 +28,8 @@ class Solution:
         cnt1 = nums.count(el)
         if cnt1 > (n // 2):
             return el
-        return -1
+        return -1'''
+        return sorted(nums)[len(nums)//2]
 
 
 
