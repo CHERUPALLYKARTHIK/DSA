@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2079-watering-plants) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
