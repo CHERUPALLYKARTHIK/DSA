@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1470-shuffle-the-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
+| [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
