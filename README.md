@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
