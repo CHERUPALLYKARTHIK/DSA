@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1313-decompress-run-length-encoded-list](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
