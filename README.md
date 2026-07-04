@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3285-find-indices-of-stable-mountains) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Bit Manipulation
 |  |
