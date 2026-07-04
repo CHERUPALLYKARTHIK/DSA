@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1701-average-waiting-time) |
+| [1732-find-the-highest-altitude](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2574-left-and-right-sum-differences](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
