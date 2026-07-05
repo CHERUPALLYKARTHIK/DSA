@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
