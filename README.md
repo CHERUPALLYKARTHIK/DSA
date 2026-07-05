@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 ## Two Pointers
 |  |
 | ------- |
