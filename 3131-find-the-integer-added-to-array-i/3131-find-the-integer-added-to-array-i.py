@@ -1,6 +1,6 @@
 class Solution:
     def addedInteger(self, nums1: List[int], nums2: List[int]) -> int:
-        a=[]
+        '''a=[]
         a1=max(nums1)
         a2=max(nums2)
         a.append(a1)
@@ -14,5 +14,5 @@ class Solution:
             x=a[j]-a[i]
         else:
             x=0
-        return x
-        
+        return x'''
+        return max(nums2)-max(nums1)        
