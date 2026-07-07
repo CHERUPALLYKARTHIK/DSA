@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
