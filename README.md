@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
+| [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
