@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1757-recyclable-and-low-fat-products) |
