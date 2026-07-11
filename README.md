@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
