@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
