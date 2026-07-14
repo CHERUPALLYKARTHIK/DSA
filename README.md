@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0118-pascals-triangle) |
 ## Counting Sort
 |  |
 | ------- |
