@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0118-pascals-triangle) |
 ## Counting Sort
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
