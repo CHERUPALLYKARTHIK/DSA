@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2079-watering-plants) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
