@@ -1,5 +1,6 @@
 class Solution:
     def minimumDifference(self, nums: List[int], k: int) -> int:
+        #sliding window
         nums.sort()
         l=0
         n=len(nums)
