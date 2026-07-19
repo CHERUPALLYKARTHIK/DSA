@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -266,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
