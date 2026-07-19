@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2079-watering-plants) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
