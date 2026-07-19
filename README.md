@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0704-binary-search) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 | [1329-sort-the-matrix-diagonally](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Divide and Conquer
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 ## Union-Find
 |  |
