@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0704-binary-search) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0885-spiral-matrix-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0798-smallest-rotation-with-highest-score) |
+| [1004-max-consecutive-ones-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
