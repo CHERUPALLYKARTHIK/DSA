@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
