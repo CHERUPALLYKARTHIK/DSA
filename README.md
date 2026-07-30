@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0013-roman-to-integer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
