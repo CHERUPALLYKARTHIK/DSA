@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
