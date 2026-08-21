@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0014-longest-common-prefix) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
