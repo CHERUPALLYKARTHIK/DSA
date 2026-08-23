@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
+| [1927-sum-game](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0014-longest-common-prefix) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1927-sum-game](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
