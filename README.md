@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3467-transform-array-by-parity) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
