@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
