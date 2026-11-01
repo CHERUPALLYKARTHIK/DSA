@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0561-array-partition) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CHERUPALLYKARTHIK/DSA/tree/master/1248-count-number-of-nice-subarrays) |
